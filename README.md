@@ -37,8 +37,8 @@ Ikuti langkah-langkah ini untuk menjalankan proyek di mesin lokal Anda.
 Buka terminal Anda dan jalankan perintah berikut. Ganti `NAMA_PENGGUNA_ANDA` dan `NAMA_REPO_ANDA` dengan milik Anda.
 
 ```bash
-git clone https://github.com/NAMA_PENGGUNA_ANDA/NAMA_REPO_ANDA.git
-cd NAMA_REPO_ANDA
+git clone https://github.com/MuhammadWildanJamil/chatbot-nodejs.git
+cd chatbot-nodejs
 ```
 
 ### 2. Install Dependensi
