@@ -2,6 +2,10 @@
 
 Sebuah aplikasi web chatbot sederhana, modern, dan interaktif yang didukung oleh Google Gemini Pro API, dibangun dengan backend Node.js dan Express.js.
 
+## 📸 Tampilan
+
+![Screenshot Chatbot](./assets/screenshot.png)
+
 ## ✨ Fitur
 
 *   **UI Modern & Interaktif**: Desain yang bersih, responsif, dan menarik secara visual.
